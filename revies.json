@@ -1,0 +1,19 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "username": "reviewer1",
+      "rating": 4,
+      "comment": "Great app with intuitive design!",
+      "date": "2025-04-27"
+    },
+    {
+      "id": 2,
+      "username": "reviewer2",
+      "rating": 5,
+      "comment": "Absolutely love Cozy Tunes.",
+      "date": "2025-04-27"
+    }
+    // Add more review objects as needed
+  ]
+}
