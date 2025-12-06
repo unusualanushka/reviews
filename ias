@@ -1,0 +1,15 @@
+[
+  {
+    "id": 101,
+    "name": "Advanced GS Strategy Guide",
+    "description": "A comprehensive, 500-page guide covering all four General Studies papers for the UPSC Civil Services Examination.",
+    "price": 499.00,
+    "currency": "INR",
+    "images": [
+      "https://example.com/pathfinder-product1-img1.jpg",
+      "https://example.com/pathfinder-product1-img2.jpg",
+      "https://example.com/pathfinder-product1-img3.jpg",
+      "https://example.com/pathfinder-product1-img4.jpg"
+    ]
+  }
+]
